@@ -1,0 +1,11 @@
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Model\bin\Debug\net8.0\TransactionService.Model.deps.json
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Model\bin\Debug\net8.0\TransactionService.Model.dll
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Model\bin\Debug\net8.0\TransactionService.Model.pdb
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Model\obj\Debug\net8.0\TransactionService.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Model\obj\Debug\net8.0\TransactionService.Model.AssemblyInfoInputs.cache
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Model\obj\Debug\net8.0\TransactionService.Model.AssemblyInfo.cs
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Model\obj\Debug\net8.0\TransactionService.Model.csproj.CoreCompileInputs.cache
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Model\obj\Debug\net8.0\TransactionService.Model.dll
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Model\obj\Debug\net8.0\refint\TransactionService.Model.dll
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Model\obj\Debug\net8.0\TransactionService.Model.pdb
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Model\obj\Debug\net8.0\ref\TransactionService.Model.dll

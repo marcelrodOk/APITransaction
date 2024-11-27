@@ -1,0 +1,17 @@
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Data\bin\Debug\net8.0\TransactionService.Data.deps.json
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Data\bin\Debug\net8.0\TransactionService.Data.runtimeconfig.json
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Data\bin\Debug\net8.0\TransactionService.Data.dll
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Data\bin\Debug\net8.0\TransactionService.Data.pdb
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Data\bin\Debug\net8.0\TransactionService.Model.dll
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Data\bin\Debug\net8.0\TransactionService.Model.pdb
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Data\obj\Debug\net8.0\TransactionService.Data.csproj.AssemblyReference.cache
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Data\obj\Debug\net8.0\TransactionService.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Data\obj\Debug\net8.0\TransactionService.Data.AssemblyInfoInputs.cache
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Data\obj\Debug\net8.0\TransactionService.Data.AssemblyInfo.cs
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Data\obj\Debug\net8.0\TransactionService.Data.csproj.CoreCompileInputs.cache
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Data\obj\Debug\net8.0\Transact.3F0F965C.Up2Date
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Data\obj\Debug\net8.0\TransactionService.Data.dll
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Data\obj\Debug\net8.0\refint\TransactionService.Data.dll
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Data\obj\Debug\net8.0\TransactionService.Data.pdb
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Data\obj\Debug\net8.0\TransactionService.Data.genruntimeconfig.cache
+C:\Repositorios\IVRMicroServices\src\MicroServices\APITransaction\Transaction.Data\obj\Debug\net8.0\ref\TransactionService.Data.dll
